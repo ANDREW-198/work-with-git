@@ -16,8 +16,6 @@ def main():
         print(i)
         print(i**2)
 
-
-
 print('her')
 
 

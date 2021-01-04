@@ -24,10 +24,4 @@ print('her')
 
 
 print('him')
-print('him')
-print('him')
-print('him')
-print('him')
-print('him')
-print('him')
 main()
